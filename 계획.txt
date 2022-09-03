@@ -1,0 +1,12 @@
+일단 만들기
+pages : 메인, 소개(About), 글목록(Boards), 글내용(Board), 로그인페이지? 모달로?
+기능 : 조회수, 좋아요, 글수정, 글생성, 글삭제
+
+meta?
+
+서버연동
+
+router?(react-router-dom), redux?
+
+로그인
+
